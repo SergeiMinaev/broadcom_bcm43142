@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>broadcom_bcm43142</name>
+      <description lang="en">Unofficial overlay with patched net-wireless/broadcom-sta (>=linux-5.10 support).</description>
+        <homepage>https://github.com/SergeiMinaev/broadcom_bcm43142</homepage>
+        <owner type="person">
+            <name>Sergei Minaev</name>
+            <email>i@zenux.ru</email>
+        </owner>
+        <source type="git">git://github.com/SergeiMinaev/broadcom_bcm43142.git</source>
+  </repo>
+</repositories>
